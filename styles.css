@@ -1,0 +1,33 @@
+body {
+	font-family: system-ui, sans-serif;
+	background-color: rgb(108, 176, 244);
+	margin: 2%;
+}
+
+button {
+	background: white;
+	border-radius: 10px;
+	border: 0px;
+	padding: 10px;
+}
+
+.text {
+	color: white;
+}
+
+.tj-img {
+	width: 670px;
+}
+
+.footer-img {
+	width: 50px;
+}
+
+footer {
+	margin-top: 20%;
+	background: lightblue;
+}
+
+td {
+	padding-right: 15px;
+}
